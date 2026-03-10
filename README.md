@@ -17,17 +17,6 @@ It scans a target directory, generates a baseline of file SHA-256 hashes, and th
 - **Cross-platform**: Works on Windows, macOS, and Linux.
 ---
 
-## ✅ High-level purpose (what the fim.js script does)
-The fim.js is a File Integrity Monitoring (FIM) tool. It can run in two modes:
-
-A) Collect a baseline of file hashes under a target directory
-B) Monitor for changes compared to that baseline
-
-It uses only Node.js built-in modules and writes results to:
-- baseline.txt (baseline hashes)
-- monitoring.log (timestamped change events)
-
----
 ## 🧰 Prerequisites
 
 - **Node.js** (v14+ recommended)
