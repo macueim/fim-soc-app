@@ -1,4 +1,3 @@
 f58b75f61464327554b675159de66b795b42cdc95bfa7a581381bf0aeca598b7|C:\Users\macue\Desktop\Projects\Projects\FIM\critical_files\Bank_Records.xlsx
 3fa773bec3b3688c34b09326dec85ee90ebe3087762288122a1b8acdd76602ca|C:\Users\macue\Desktop\Projects\Projects\FIM\critical_files\ElectronicHealthRecords.docx
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855|C:\Users\macue\Desktop\Projects\Projects\FIM\critical_files\new_info_file.txt
 6e468cad070b901ef749eed40e6cc0ddfc3d6f3e45f710e8468d7ce7b7472c0c|C:\Users\macue\Desktop\Projects\Projects\FIM\critical_files\Student_Records.txt
