@@ -1,0 +1,9 @@
+Student's Records:
+
+Student_ID: 78
+
+First Name: Mary 
+Last Name: Doe
+Phone: 888-344-4784
+Address: 790 Street apt: 233, Fargo, ND 77003
+GPA: 3.78
