@@ -86,6 +86,22 @@ When the script runs, you will be prompted to select an option:
 
 ---
 
+## The Top 10 Lessons Learned from the FIM Project:
+
+1.	The File Integrity Monitoring (FIM) solution supports multiple business domains in meeting industry specific regulatory requirements, including HIPAA/HITECH, PCI DSS, FERPA, and SOC 2 Type II.
+2.	The protection of log files is essential; maintaining immutability and tamper resistant cryptographic properties is critical to preventing unauthorized modification.
+3.	A deliberate balance between security and system performance must be maintained, ensuring that only high priority events are captured and escalated through alerts or notifications.
+4.	Modern, secure cryptographic hashing algorithms such as SHA 256 are strongly preferred over weak and deprecated algorithms like MD5 and SHA 1.
+5.	Real time monitoring of critical security events plays a vital role in effective security operations and incident response.
+6.	The project provided an in depth exploration of hashing algorithm principles—including determinism, the avalanche effect, collision resistance, and one way functions—and clarified their distinctions from encryption. Practical implementations included hashing passwords with added salt and pepper.
+7.	The FIM application was developed using both Python and JavaScript, demonstrating cross language implementation capabilities.
+8.	Since every computational action incurs cost, whether collecting, storing, transmitting, or processing data, detection and logging rules were optimized accordingly. Only essential digital assets were monitored, and administrators were alerted to critical events.
+9.	APIs and software libraries proved valuable for improving code efficiency and optimizing development workflows.
+10.	The current command line–based program has the potential to be expanded into a full stack application and deployed on cloud platforms such as AWS or Render.
+
+
+---
+
 ## 📜 License
 
 This project is part of my ongoing effort to build my SOC Analyst skill set.
