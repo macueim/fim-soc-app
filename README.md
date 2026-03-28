@@ -1,4 +1,4 @@
-﻿# File Integrity Monitor (FIM)
+﻿# File Integrity Monitoring (FiM) APP
 
 A lightweight **File Integrity Monitoring** tool written in **Node.js** with **zero external dependencies**.
 
